@@ -1,0 +1,5 @@
+CLASS zbp_mt_rk_t_proc DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zmt_rk_travel_processor.
+ENDCLASS.
+
+CLASS zbp_mt_rk_t_proc IMPLEMENTATION.
+ENDCLASS.

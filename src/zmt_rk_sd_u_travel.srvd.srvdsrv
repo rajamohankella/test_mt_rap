@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service Definition'
+define service ZMT_RK_SD_U_TRAVEL {
+  expose zmt_rk_u_travel   as Travel;
+  expose zmt_rk_u_customer as Customer;
+  expose ZMT_RK_U_AGENCY   as Agency;
+}
